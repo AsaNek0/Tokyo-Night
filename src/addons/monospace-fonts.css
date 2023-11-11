@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'JetBrainsMono Nerd Font';
-  src: local('JetBrainsMono Nerd Font'), url('https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@12a523c32d55bdde88074e5b09e2b2e1eb9b5342/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf') format('truetype');
+  font-family: 'CaskaydiaCove Nerd Font';
+  src: local('CaskaydiaCove Nerd Font'), url('https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@12a523c32d55bdde88074e5b09e2b2e1eb9b5342/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete.ttf') format('truetype');
 }
 
 :root {
-  --font-primary: 'JetBrainsMono Nerd Font';
-  --font-code: 'JetBrainsMono Nerd Font';
+  --font-primary: 'CaskaydiaCove Nerd Font';
+  --font-code: 'CaskaydiaCove Nerd Font';
   --font-display: var(--font-primary);
 }
 
